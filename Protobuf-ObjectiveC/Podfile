@@ -1,0 +1,9 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '7.1'
+
+pod 'Protobuf', '~> 3.0.0-beta-2'
+
+target 'Protobuf-ObjectiveC' do
+
+end
+
